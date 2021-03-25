@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="images/favicon.ico" alt="Lira Exchange Rates" />
+  <img src="images/favicon.ico"  width="200px" alt="Lira Exchange Rates" />
 
   &#xa0;
 
@@ -48,15 +48,16 @@ A simple web app to get lira price at real time for different countries.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Show Real-Time Syrian Lira Price;\
-:heavy_check_mark: Show Real-Time Lebanese Lira Price;
+:heavy_check_mark: Show Real-Time Syrian Lira Price\
+:heavy_check_mark: Show Real-Time Lebanese Lira Price
 
 ## :rocket: Technologies ##
 
 The following languages & frameworks were used in this project:
 
 - [TypeScript](https://www.typescriptlang.org/)
-
+- [Php](https://www.php.net/)
+- [Less](http://lesscss.org/)
 
 
 ## :memo: License ##
