@@ -1,8 +1,6 @@
 <div align="center" id="top"> 
   <img src="images/favicon.ico"  width="200px" alt="Lira Exchange Rates" />
 
-  &#xa0;
-
   <!-- <a href="https://liraexchangerates.netlify.app">Demo</a> -->
 </div>
 
