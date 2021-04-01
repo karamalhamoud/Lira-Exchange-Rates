@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, user-scalable=no" />
@@ -7,43 +8,47 @@
   <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <script src="https://use.fontawesome.com/3f46712a53.js"></script>
-  <script defer>var exports = {};</script>
-  <script src="index.min.js"></script>
-  <link rel="stylesheet" href="style.css">
+  <script src="assets/js/script.js"></script>
+  <link rel="stylesheet" href="assets/css/style.css">
 </head>
+
 <body>
 
 
-<div class="widget">
-  <div class="icon" style="background: lightcoral;"><i class="fa fa-usd fa-2x"></i></div>
-  <div class="info">
-    <div>USD <sub>buy</sub></div>
-    <div>
-			<div> <i id="USD_Buy_Icon" style="font-size: 1.3rem; color: green;" ></i> <b id="USD_Buy_Text" class="count">NA</b> <span id="CurrencyCode_Buy">NA</span></div>
-		</div>
+  <div class="widget">
+    <div class="icon" style="background: lightcoral;"><i class="fa fa-usd fa-2x"></i></div>
+    <div class="info">
+      <div>USD <sub>buy</sub></div>
+      <div>
+        <div> <i id="USD_Buy_Icon" style="font-size: 1.3rem; color: green;"></i> <b id="USD_Buy_Text"
+            class="count">NA</b> <span id="CurrencyCode_Buy">NA</span></div>
+      </div>
+    </div>
   </div>
-</div>
 
-<div class="widget">
-  <div class="icon" style="background: darkseagreen;"><i class="fa fa-usd fa-2x"></i></div>
-  <div class="info">
-    <div>USD <sub>sell</sub></div>
-    <div>
-			<div> <i id="USD_Sell_Icon" style="font-size: 1.3rem; color: red;" ></i> <b id="USD_Sell_Text" class="count">NA</b> <span id="CurrencyCode_Sell">NA</span></div>
-		</div>
+  <div class="widget">
+    <div class="icon" style="background: darkseagreen;"><i class="fa fa-usd fa-2x"></i></div>
+    <div class="info">
+      <div>USD <sub>sell</sub></div>
+      <div>
+        <div> <i id="USD_Sell_Icon" style="font-size: 1.3rem; color: red;"></i> <b id="USD_Sell_Text"
+            class="count">NA</b> <span id="CurrencyCode_Sell">NA</span></div>
+      </div>
+    </div>
   </div>
-</div>
 
-<br><br>
+  <br><br>
 
-<b id="last_update">Last Update: NA</b>
+  <b id="last_update">Last Update: NA</b>
 
-<br><br><br>
+  <br><br><br>
 
-<div>
-  <img style="cursor: pointer;" onclick="Show_Price('SYP');" src="images/syria-flag-round-medium.png" width="35px">&nbsp;
-  <img style="cursor: pointer;" onclick="Show_Price('LBP');" src="images/lebanon-flag-round-medium.png" width="35px">
-</div>
+  <div>
+    <img style="cursor: pointer;" onclick="Show_Price('SYP');" src="images/syria-flag-round-medium.png"
+      width="35px">&nbsp;
+    <img style="cursor: pointer;" onclick="Show_Price('LBP');" src="images/lebanon-flag-round-medium.png" width="35px">
+  </div>
 
 </body>
+
 </html>
