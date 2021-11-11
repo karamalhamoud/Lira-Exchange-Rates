@@ -13,7 +13,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/karamalhamoud/lira-exchange-rates?style=for-the-badge">
 
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&color=green">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&color=red">
 
   <img alt="Github forks" src="https://img.shields.io/github/forks/karamalhamoud/lira-exchange-rates?style=for-the-badge" />
 
