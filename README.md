@@ -7,19 +7,19 @@
 <h1 align="center">Lira Exchange Rates</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/karamalhamoud/lira-exchange-rates?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/karamalhamoud/lira-exchange-rates?style=for-the-badge">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/karamalhamoud/lira-exchange-rates?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/karamalhamoud/lira-exchange-rates?style=for-the-badge">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/karamalhamoud/lira-exchange-rates?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/karamalhamoud/lira-exchange-rates?style=for-the-badge">
 
   <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/karamalhamoud/lira-exchange-rates?color=56BEB8" />
+  <img alt="Github issues" src="https://img.shields.io/github/issues/karamalhamoud/lira-exchange-rates?style=for-the-badge" />
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/karamalhamoud/lira-exchange-rates?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/karamalhamoud/lira-exchange-rates?style=for-the-badge" />
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/karamalhamoud/lira-exchange-rates?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/karamalhamoud/lira-exchange-rates?style=for-the-badge" />
 </p>
 
 <!-- Status -->
