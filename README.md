@@ -11,7 +11,7 @@
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/karamalhamoud/lira-exchange-rates?style=for-the-badge&color=red">
 
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&color=red">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&color=red"> 
 
   <img alt="Github forks" src="https://img.shields.io/github/forks/karamalhamoud/lira-exchange-rates?style=for-the-badge&color=red" />
 
