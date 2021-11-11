@@ -7,7 +7,7 @@
 <h1 align="center">Lira Exchange Rates</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/karamalhamoud/lira-exchange-rates?color=56BEB8?style=for-the-badge">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/karamalhamoud/lira-exchange-rates?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/karamalhamoud/lira-exchange-rates?color=56BEB8">
 
