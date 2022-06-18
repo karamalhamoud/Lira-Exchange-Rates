@@ -27,7 +27,7 @@
 <br />
 
 
-## About The Project
+# About The Project
 
 <br />
 
@@ -40,7 +40,7 @@ There are many great apps & websites for exchange rates on the internet, but I h
 
 <br><br>
 
-### Built With
+## 🧑‍💻 Built With
 
 The following languages & frameworks were used in this project:
 * [TypeScript](https://www.typescriptlang.org/)
