@@ -25,7 +25,6 @@
     ·
     <a href="https://github.com/karamalhamoud/Lira-Exchange-Rates/issues">Request Feature</a>
   </p>
-</div>
 
 
 
@@ -33,9 +32,12 @@
 
 ## About The Project
 
-<img align="center" src="images/screenshot.png" width="200">
+<img src="images/screenshot.png" width="300">
+<br><br>
 
 There are many great apps & websites for exchange rates on the internet, but I haven't found one that relies only on the market price of the local lira, so I created this enhanced one.
+
+</div>
 
 <br><br>
 

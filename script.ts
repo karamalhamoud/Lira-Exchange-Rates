@@ -16,7 +16,7 @@ enum Change {
 
 function Show_Price(Country: string) {
     var LiraPrice = new Currency(Country);
-    var url = "https://karam-dev.000webhostapp.com/api.php?CurrencyCode=" + LiraPrice.CurrencyCode;
+    var url = "api.php?CurrencyCode=" + LiraPrice.CurrencyCode;
 
     fetch(url)
         .then(res => res.json())

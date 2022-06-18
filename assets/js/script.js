@@ -11,7 +11,7 @@ var Change;
 })(Change || (Change = {}));
 function Show_Price(Country) {
     var LiraPrice = new Currency(Country);
-    var url = "https://karam-dev.000webhostapp.com/api.php?CurrencyCode=" + LiraPrice.CurrencyCode;
+    var url = "api.php?CurrencyCode=" + LiraPrice.CurrencyCode;
     fetch(url)
         .then(function (res) { return res.json(); })
         .then(function (out) {
