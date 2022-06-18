@@ -1,16 +1,8 @@
 <div id="top"></div>
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
-
-<br />
 <div align="center">
   <a href="https://github.com/karamalhamoud/Lira-Exchange-Rates">
-    <img src="images/favicon.ico" alt="Logo" width="100" height="100">
+    <img src="images/favicon.ico" alt="Logo" width="125">
   </a>
 
   <h3 align="center">Lira Exchange Rates</h3>
@@ -25,12 +17,19 @@
     ·
     <a href="https://github.com/karamalhamoud/Lira-Exchange-Rates/issues">Request Feature</a>
   </p>
- 
 
 
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![MIT License][license-shield]][license-url]
+
+<br />
 
 
 ## About The Project
+
+<br />
 
 <img src="images/screenshot.png" width="300">
 <br><br>
