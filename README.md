@@ -31,7 +31,7 @@
 
 <br />
 
-<img src="images/screenshot.png" width="300">
+<img id="product-screenshot" src="images/screenshot.png" width="300">
 <br><br>
 
 There are many great apps & websites for exchange rates on the internet, but I haven't found one that relies only on the market price of the local lira, so I created this enhanced one.
