@@ -1,66 +1,76 @@
-<div align="center" id="top"> 
-  <img src="images/favicon.ico"  width="200px" alt="Lira Exchange Rates" />
+<div id="top"></div>
 
-  <!-- <a href="https://liraexchangerates.netlify.app">Demo</a> -->
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+
+
+<br />
+<div align="center">
+  <a href="https://github.com/karamalhamoud/Lira-Exchange-Rates">
+    <img src="images/favicon.ico" alt="Logo" width="100" height="100">
+  </a>
+
+  <h3 align="center">Lira Exchange Rates</h3>
+
+  <p align="center">
+   A simple web app to get current lira exchange rates in real time for a number of countries...
+    <br />
+    <a href="#product-screenshot"><strong>Explore it »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/karamalhamoud/Lira-Exchange-Rates/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/karamalhamoud/Lira-Exchange-Rates/issues">Request Feature</a>
+  </p>
 </div>
 
-<h1 align="center">Lira Exchange Rates</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/karamalhamoud/lira-exchange-rates?style=for-the-badge&color=red">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/karamalhamoud/lira-exchange-rates?style=for-the-badge&color=red">
 
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&color=red"> 
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/karamalhamoud/lira-exchange-rates?style=for-the-badge&color=red" />
+## About The Project
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/karamalhamoud/lira-exchange-rates?style=for-the-badge&color=red" />
-</p>
+<img align="center" src="images/screenshot.png" width="200">
 
-<!-- Status -->
+There are many great apps & websites for exchange rates on the internet, but I haven't found one that relies only on the market price of the local lira, so I created this enhanced one.
 
-<!-- <h4 align="center"> 
-	🚧  Lira Exchange Rates 🚀 Under construction...  🚧
-</h4> 
+<br><br>
 
-<hr> -->
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/karamalhamoud" target="_blank">Author</a>
-</p>
-
-<br>
-
-## :dart: About ##
-
-A simple web app to get lira price at real time for different countries.
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Show Real-Time Syrian Lira Price\
-:heavy_check_mark: Show Real-Time Lebanese Lira Price
-
-## :rocket: Technologies ##
+### Built With
 
 The following languages & frameworks were used in this project:
-
-- [TypeScript](https://www.typescriptlang.org/)
-- [Php](https://www.php.net/)
-- [Less](http://lesscss.org/)
-
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+* [TypeScript](https://www.typescriptlang.org/)
+* [Php](https://www.php.net/)
+* [Less](http://lesscss.org/)
 
 
-Made with :heart: by <a href="https://github.com/karamalhamoud" target="_blank">Karam Alhamoud</a>
+<br><br>
 
-&#xa0;
+## 📝 License
 
-<a href="#top">Back to top</a>
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+## 🤙 Contact
+
+<a href="https://www.instagram.com/karam.alhamoud/"><img src="https://img.shields.io/badge/instagram%20@karam.alhamoud-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+
+<br><br>
+<b align="right"><a href="#top">back to top</a></b>
+
+
+
+
+[forks-shield]: https://img.shields.io/github/forks/karamalhamoud/Lira-Exchange-Rates.svg?style=for-the-badge
+[forks-url]: https://github.com/karamalhamoud/Lira-Exchange-Rates/network/members
+[stars-shield]: https://img.shields.io/github/stars/karamalhamoud/Lira-Exchange-Rates.svg?style=for-the-badge
+[stars-url]: https://github.com/karamalhamoud/Lira-Exchange-Rates/stargazers
+[issues-shield]: https://img.shields.io/github/issues/karamalhamoud/Lira-Exchange-Rates.svg?style=for-the-badge
+[issues-url]: https://github.com/karamalhamoud/Lira-Exchange-Rates/issues
+[license-shield]: https://img.shields.io/github/license/karamalhamoud/Lira-Exchange-Rates.svg?style=for-the-badge
+[license-url]: https://github.com/karamalhamoud/Lira-Exchange-Rates/blob/master/LICENSE
