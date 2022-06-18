@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+<div align="center">
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -8,9 +10,8 @@
 
 
 <br />
-<div align="center">
   <a href="https://github.com/karamalhamoud/Lira-Exchange-Rates">
-    <img src="images/favicon.ico" alt="Logo" width="100" height="100">
+    <img src="images/favicon.ico" alt="Logo" width="125">
   </a>
 
   <h3 align="center">Lira Exchange Rates</h3>
